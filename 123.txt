@@ -1,4 +1,19 @@
+<<<<<<< HEAD
 testtest
 1. 123456
 2.8965
 3. testN
+=======
+sdvgbn 
+fghyfkdt
+
+Yevhen_Naumov 
+<html>
+
+
+
+
+</html>
+
+изминения 2
+>>>>>>> 07c9b94ea3cc020c45314dc774c1de489f895e1f
